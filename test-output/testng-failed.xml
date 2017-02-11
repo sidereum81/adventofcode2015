@@ -5,7 +5,7 @@
     <classes>
       <class name="TestDayOne">
         <methods>
-          <include name="testNegativeLevel"/>
+          <include name="testGetFloor"/>
         </methods>
       </class> <!-- TestDayOne -->
     </classes>
